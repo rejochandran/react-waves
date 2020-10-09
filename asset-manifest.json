@@ -1,14 +1,24 @@
 {
-  "main.css": "/react-waves/static/css/main.54822709.chunk.css",
-  "main.js": "/react-waves/static/js/main.414143b2.chunk.js",
-  "main.js.map": "/react-waves/static/js/main.414143b2.chunk.js.map",
-  "runtime~main.js": "/react-waves/static/js/runtime~main.d0d637db.js",
-  "runtime~main.js.map": "/react-waves/static/js/runtime~main.d0d637db.js.map",
-  "static/js/2.ad8c1afc.chunk.js": "/react-waves/static/js/2.ad8c1afc.chunk.js",
-  "static/js/2.ad8c1afc.chunk.js.map": "/react-waves/static/js/2.ad8c1afc.chunk.js.map",
-  "index.html": "/react-waves/index.html",
-  "precache-manifest.07df041b076a7257eb1e146440b4df34.js": "/react-waves/precache-manifest.07df041b076a7257eb1e146440b4df34.js",
-  "service-worker.js": "/react-waves/service-worker.js",
-  "static/css/main.54822709.chunk.css.map": "/react-waves/static/css/main.54822709.chunk.css.map",
-  "static/media/africa.mp3": "/react-waves/static/media/africa.5aa39e77.mp3"
+  "files": {
+    "main.css": "/react-waves/static/css/main.05cfc9a3.chunk.css",
+    "main.js": "/react-waves/static/js/main.e669a108.chunk.js",
+    "main.js.map": "/react-waves/static/js/main.e669a108.chunk.js.map",
+    "runtime-main.js": "/react-waves/static/js/runtime-main.0f1cdf48.js",
+    "runtime-main.js.map": "/react-waves/static/js/runtime-main.0f1cdf48.js.map",
+    "static/js/2.fdeaa324.chunk.js": "/react-waves/static/js/2.fdeaa324.chunk.js",
+    "static/js/2.fdeaa324.chunk.js.map": "/react-waves/static/js/2.fdeaa324.chunk.js.map",
+    "index.html": "/react-waves/index.html",
+    "precache-manifest.a46b9d59e93795c3f60dafb27be7ff03.js": "/react-waves/precache-manifest.a46b9d59e93795c3f60dafb27be7ff03.js",
+    "service-worker.js": "/react-waves/service-worker.js",
+    "static/css/main.05cfc9a3.chunk.css.map": "/react-waves/static/css/main.05cfc9a3.chunk.css.map",
+    "static/js/2.fdeaa324.chunk.js.LICENSE.txt": "/react-waves/static/js/2.fdeaa324.chunk.js.LICENSE.txt",
+    "static/media/africa.mp3": "/react-waves/static/media/africa.5aa39e77.mp3",
+    "static/media/demo.wav": "/react-waves/static/media/demo.86e9eec5.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f1cdf48.js",
+    "static/js/2.fdeaa324.chunk.js",
+    "static/css/main.05cfc9a3.chunk.css",
+    "static/js/main.e669a108.chunk.js"
+  ]
 }
